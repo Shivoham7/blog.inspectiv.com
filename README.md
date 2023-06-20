@@ -1,2 +1,2 @@
-# blog.inspectiv.com
+# bcapp-pattern-lab
 subdomain takeover
